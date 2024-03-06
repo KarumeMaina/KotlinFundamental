@@ -1,0 +1,29 @@
+Object-Oriented Programming (OOP) is a fundamental programming paradigm that focuses on designing and modeling
+your code around objects. Kotlin is a versatile language that fully supports OOP principles.
+
+1. Classes and Objects:
+
+Class: In Kotlin, a class is a blueprint for creating objects. It defines the structure and behavior of objects.
+Object: An object is an instance of a class. You can create objects from a class and use them to work with the
+class's properties and functions.
+
+2. Inheritance:
+
+Inheritance is a fundamental OOP concept that allows you to create a new class (subclass or derived class) that inherits
+properties and functions from an existing class (superclass or base class). Kotlin supports single inheritance.
+
+3. Polymorphism:
+
+Polymorphism is the ability to work with objects of different classes through a common interface. This is achieved through
+method overriding, interfaces, and abstract classes.
+
+4. Encapsulation:
+
+Encapsulation is the principle of restricting access to the internal details of an object. Kotlin provides visibility modifiers
+(public, private, protected, internal) to control access to class members, allowing you to encapsulate data and behavior.
+
+5. Abstraction:
+
+Abstraction involves simplifying complex systems by modeling classes that represent entities and their interactions, focusing on
+what an object does, rather than how it does it.
+In Kotlin, you can use abstract classes and methods to create structures that other classes must implement:
